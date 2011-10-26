@@ -1,0 +1,20 @@
+WISDOM - Web-based, Information, Systems, Document, & Organization Manager
+
+WISDOM was born as a way to keep track of all the various bits of data
+that we collected as part of maintaining our (and our clients') networks.
+
+Release: Version 0.1.1 ALPHA (2011-10-26)
+
+WISDOM requires a web server with PHP support and a MySQL/MariaDB server.
+
+WISDOM was developed on a Xen virtualized Debian 6.0 x64 server
+running Apache 2.2.16, PHP 5.3.3, & MySQL 5.1.49.
+
+Installation instructions, getting started tips, and other documentation
+will go here. Promise.
+
+Version History
+Initial Release: 0.1.1 ALPHA (2011-10-26)
+
+Allan Holtzmann (aholtzmann@greenbridgesystems.com)
+Date or copyright date, and other legal information will go here.
